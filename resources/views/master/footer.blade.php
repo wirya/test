@@ -1,0 +1,1 @@
+<div class="text-center">© 2017 Green School Bali</div> 
